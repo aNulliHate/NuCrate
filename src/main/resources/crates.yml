@@ -1,0 +1,21 @@
+common:
+  drops:
+    - name: "DEFAULT"
+      id: 1
+      meta: 0
+      enchantments:
+        - "protection:1"
+      lore: "Example Lore"
+  block: "57:0"
+  broadcast: "{player} is opening a common crate"
+
+legendary:
+  drops:
+    - name: "DEFAULT"
+      id: 1
+      meta: 0
+      enchantments:
+        - "protection:1"
+      lore: "Example Lore"
+  block: "133:0"
+  broadcast: "{player} is opening a legendary crate"

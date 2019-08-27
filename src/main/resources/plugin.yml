@@ -1,0 +1,22 @@
+name: NuCrate
+main: dev.anullihate.nucrate.NuCrate
+version: ${pom.version}
+api: ["1.0.0"]
+author: anullihate
+
+permissions:
+  nu.crates.use:
+    default: true
+    description: "Allows using the crates."
+  nu.command.key:
+    default: op
+    description: "Allows use of /key command."
+  nu.command.keyall:
+    default: op
+    description: "Allows using /keyall command."
+  nu.crates.create:
+    default: op
+    description: "Allows using the crates."
+  nu.crates.destroy:
+    default: op
+    description: "Allows using the crates."

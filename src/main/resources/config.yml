@@ -1,0 +1,11 @@
+key: "339:0"
+lore: "Use this key at /warp crates.\nWin OP stuff."
+crateWorld: "world"
+commandMeta: 50
+maxCommands: 5
+tickDelay: 2
+scrollSpeed: 5
+showParticle: true
+# Types: CloudRain , Helix , DoubleHelix , Ting , Crown
+particleType: "Helix"
+particleTickRate: 5
